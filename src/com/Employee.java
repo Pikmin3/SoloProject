@@ -6,6 +6,7 @@ package com;
  */
 public class Employee {
     private String name;
+    private int foo;
     public Employee(String name){
         this.name = name;
     }
