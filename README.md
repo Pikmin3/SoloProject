@@ -1,2 +1,2 @@
 # SoloProject
-This is just show off my programming skill.
+I am just using this repository to test git commands
