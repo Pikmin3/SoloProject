@@ -1,7 +1,7 @@
 package com;
 
 public class Test{
-	private String result = "foo";
+	private String result = "foobar";
 	public Test(){
 		System.out.println("hello world!");
 	}
