@@ -13,4 +13,5 @@ public class Employee {
     public String getName(){
         return lname;
     }
+    public void descr(){}
 }
